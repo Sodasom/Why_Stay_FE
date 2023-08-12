@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.swiper-pagination-bullet-active {
+  background: black !important;
+}
+
+.swiper-pagination {
+  position: static !important;
+}
