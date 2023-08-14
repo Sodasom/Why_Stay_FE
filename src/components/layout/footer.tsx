@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-[#4a4a4a] text-white text-xs p-5 flex lg:text-base">
+    <footer className="bg-[#4a4a4a] text-white text-xs p-5 flex lg:text-base flex-shrink-0">
       <div className="flex flex-col space-y-10">
         <span>@ 2023 Team_16</span>
         <span className="text-[#a4a4a4]">
